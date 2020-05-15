@@ -40,7 +40,7 @@ For the respective PID I haved checked whether the PID has step 0, status "C" an
 
 4. Below is a small sample of a junkmail database we own, ie. people we want to 'spam' via postal mail to get them to enroll their kids in our STEM academy [lol].
 
-<https://github.com/Niranjani29/SQL_queries/blob/master/images/4.jpg'>
+<img src='https://github.com/Niranjani29/SQL_queries/blob/master/images/4.jpg'>
 
 
 Each entry consists of a name, address, ID, and whether there is a prior family member already in the db; in the last column, NULL means that entry is the first family member in our db, and a non-null value is the ID of the first family member (eg. Diego points to Alice, and Ella points to Bob).
